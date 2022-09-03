@@ -1,5 +1,5 @@
 {
-  "name": "@cary/demo-npm-link",
+  "name": "@carywill/demo-npm-link",
   "version": "1.0.0",
   "description": "test npm link for dev",
   "main": "index.js",
